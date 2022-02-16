@@ -1,2 +1,2 @@
 lab1:
-	cd Lab1 && g++ file_in.cpp -o main && ./main
+	cd Lab1 && g++ file.in.cpp -o lab1 -std=c++98 && ./lab1
