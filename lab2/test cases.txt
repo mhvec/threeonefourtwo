@@ -1,0 +1,101 @@
+Welcome to the Calculator
+Please input a number and hit enter for the following operations:
+
+        1 - Addition 
+        2 - Subtraction 
+        3 - Multiplication 
+        4 - Division 
+        5 - Square Root 
+        6 - Quit Program 
+1
+
+Please input the first number
+1
+
+Please input the second number
+7
+
+The answer is: 8
+
+Please input a number and hit enter for the following operations:
+
+        1 - Addition 
+        2 - Subtraction 
+        3 - Multiplication 
+        4 - Division 
+        5 - Square Root 
+        6 - Quit Program 
+2
+
+Please input the first number
+9
+
+Please input the second number
+4
+
+The answer is: 5
+
+Please input a number and hit enter for the following operations:
+
+        1 - Addition 
+        2 - Subtraction 
+        3 - Multiplication 
+        4 - Division 
+        5 - Square Root 
+        6 - Quit Program 
+3
+
+Please input the first number
+3
+
+Please input the second number
+3
+
+The answer is: 9
+
+Please input a number and hit enter for the following operations:
+
+        1 - Addition 
+        2 - Subtraction 
+        3 - Multiplication 
+        4 - Division 
+        5 - Square Root 
+        6 - Quit Program 
+4
+
+Please input the first number
+12
+
+Please input the second number
+6
+
+The answer is: 2
+
+Please input a number and hit enter for the following operations:
+
+        1 - Addition 
+        2 - Subtraction 
+        3 - Multiplication 
+        4 - Division 
+        5 - Square Root 
+        6 - Quit Program 
+5
+
+Please input the first number
+64
+
+The answer is: 8
+
+Please input a number and hit enter for the following operations:
+
+        1 - Addition 
+        2 - Subtraction 
+        3 - Multiplication 
+        4 - Division 
+        5 - Square Root 
+        6 - Quit Program 
+6
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
