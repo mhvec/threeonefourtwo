@@ -1,3 +1,7 @@
+//A user-defined calculator struct type with an Operator enum within the same scope
+//End-user input into program through mathematical expression
+//Operations include addition, subtraction, multiply, division, square root
+
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -60,7 +64,7 @@ int main() {
 //loop for multiple uses of the calculator
 do {
     exit = 0;
-//check loop for operation selection (the two cases not accounted for is numbers that are 0 and negative numbers, anything higher than 6 will result in termination)   
+//validation loop for operation selection (the two cases not accounted for is numbers that are 0 and negative numbers, anything higher than 6 will result in termination)   
     do {
         valid = 0;
         cout << "Please input a number and hit enter for the following operations:\n\n";
@@ -79,7 +83,7 @@ do {
 
 //checking for a "quit" selection before accepting inputs, breaks if selected
 if(opInput <= 6) {
-//check loop for first input
+//validation loop for first input
     do {valid = 0;
         cout << "\nPlease input the first number\n";
         cin >> firstInput;
@@ -93,7 +97,7 @@ if(opInput <= 6) {
         }
     } while (valid = 1);
 
-//check loop for second input
+//validation loop for second input
     if(opInput != 5) {
         do {
             valid = 0;
