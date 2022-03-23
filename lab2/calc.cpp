@@ -6,7 +6,7 @@ using std::cout;
 using std::string;
 using std::endl;
 
-//
+//Structure as per guidelines
 struct Calc {
     int opSelect;
     double x;
@@ -110,6 +110,7 @@ if(opInput <= 6) {
         } while (valid = 1);
     }
 
+    //sending inputs to structure for calculation
     Calc answer = Calc(opInput, firstInput, secondInput);
     cout <<"\nThe answer is: " <<answer.calculator(opInput);
     cout <<"\n\n";
