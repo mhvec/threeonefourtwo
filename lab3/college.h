@@ -9,10 +9,11 @@
 
 class college {
     // class and prototype functions for the college class
-    unordered_map<string, student*> studentList;
-    unordered_map<string, section*> courseList;
-    unordered_map<string, instructor*> instructorList;
-    unordered_map<string, term*> termList;
+    unordered_map<string, Student*> studentList;
+    unordered_map<string, Section*> courseList;
+public:
+    unordered_map<string, Instructor*> instructorList;
+    unordered_map<string, Term*> termList;
 
 public:
     college() {};
